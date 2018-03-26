@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace PopulationDensity
 {
-    class Program
+    class Main
     {
         static void Main(string[] args)
         {
